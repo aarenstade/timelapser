@@ -10,4 +10,4 @@ Arguments
 
 Example
 
-> python3 main.py /Users/name/Desktop 10 /User/name/Desktop/timelapse.mp4
+        python3 main.py /Users/name/Desktop 10 /User/name/Desktop/timelapse.mp4
